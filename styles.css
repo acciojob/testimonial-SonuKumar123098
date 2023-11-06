@@ -4,7 +4,7 @@
 	height: 80px;
 	background-color: darkred;
 }
-p{
+div{
 	box-size:border-box;
 	padding-top: 10px ;
 	padding-left: 10px ;
@@ -14,7 +14,7 @@ p{
 	height: 40 px;
 	width: 80vw;
 }
-#main>div{
+p{
 	text-align: right;
 	font-style: italic;
 }
