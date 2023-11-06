@@ -4,7 +4,7 @@ body>div{
 	height: 400px;
 	background-color: #f5f5f5;
 }
-div{
+body>div>div{
 	box-size:border-box;
 	padding: 4px ;
 /* 	padding-left: 10px ; */
@@ -14,7 +14,7 @@ div{
 	height: 40 px;
 	width: 86vw;
 }
-p{
+.author{
 	text-align: right;
 	font-style: italic;
 	padding: 6px;
