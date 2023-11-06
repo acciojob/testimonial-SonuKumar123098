@@ -1,8 +1,8 @@
 /*  your css code here. If applicable */
-.main{
-	width: 100;
-	height: 80px;
-	background-color: darkred;
+body>div{
+	width: 90vw;
+	height: 400px;
+	background-color: #f5f5f5;
 }
 div{
 	box-size:border-box;
@@ -17,4 +17,5 @@ div{
 p{
 	text-align: right;
 	font-style: italic;
+	padding: 6px;
 }
